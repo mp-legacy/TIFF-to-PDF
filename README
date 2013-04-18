@@ -1,4 +1,1 @@
-You will need to modify the wsgi and some of the code to make it work on your installation.. maybe I will fix it up.. someday :/
-
-
-you will also need a tiff2pdf package for linux.. apt-get install tiff2pdf...
+apt-get install tiff2pdf to install the linux tool that performs the "heavy lifting"
